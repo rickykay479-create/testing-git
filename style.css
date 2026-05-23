@@ -1,8 +1,8 @@
 body {
-  backgroun: green;
+  background: yellow;
 }
 h1 {
   color: blue;
-  text-transform: uppercas;
+  text-transform: uppercase;
   text-align: center;
 }
